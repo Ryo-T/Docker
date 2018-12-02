@@ -1,2 +1,2 @@
-FROM dockersamples/static-site
+FROM nginx:latest
 ENV AUTHOR="Ryo Tanabe""
